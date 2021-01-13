@@ -1,2 +1,3 @@
-# fairy-and-start
-Fairy and Star
+#Fairy and Start
+
+Collect the stars !
